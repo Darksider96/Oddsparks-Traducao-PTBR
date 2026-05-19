@@ -33,6 +33,12 @@ Caso prefira não usar o instalador:
 
 ---
 
+### 📺 Veja a Tradução em Ação
+[![Assista ao vídeo](https://img.youtube.com/vi/c2Yj3lgB4QQ/0.jpg)](https://www.youtube.com/watch?v=c2Yj3lgB4QQ)
+*Clique na imagem acima para ver o gameplay traduzido no YouTube.*
+
+---
+
 ## 👥 Créditos e Ferramentas Utilizadas
 
 * **Tradução e Modding:** XDarksider96
