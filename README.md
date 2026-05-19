@@ -35,8 +35,13 @@ Caso prefira não usar o instalador:
 
 ### 📺 Veja a Tradução em Ação
 [![Assista ao vídeo](https://img.youtube.com/vi/c2Yj3lgB4QQ/0.jpg)](https://www.youtube.com/watch?v=c2Yj3lgB4QQ)
+
 *Clique na imagem acima para ver o gameplay traduzido no YouTube.*
 
+### 📸 Galeria de Imagens
+| Menu Inicial | Inventário / PDA | Diálogos |
+| :---: | :---: | :---: |
+| ![Menu](screenshots/01.png) | ![Configurações](screenshots/02.png) | ![Cenario](screenshots/03.png) | | ![Dialogo](screenshots/04.png) | | ![Inventario](screenshots/05.png) |
 ---
 
 ## 👥 Créditos e Ferramentas Utilizadas
