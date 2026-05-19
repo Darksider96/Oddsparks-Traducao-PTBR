@@ -39,7 +39,7 @@ Caso prefira não usar o instalador:
 *Clique na imagem acima para ver o gameplay traduzido no YouTube.*
 
 ### 📸 Galeria de Imagens
-| Menu Inicial | Inventário / PDA | Diálogos |
+| Menu Inicial | Configurações | Cenario | Diálogos | Invenatrio |
 | :---: | :---: | :---: |
 | ![Menu](screenshots/01.png) | ![Configurações](screenshots/02.png) | ![Cenario](screenshots/03.png) | | ![Dialogo](screenshots/04.png) | | ![Inventario](screenshots/05.png) |
 ---
