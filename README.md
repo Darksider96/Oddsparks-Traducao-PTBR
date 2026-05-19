@@ -17,7 +17,7 @@ O projeto conta com um instalador automatizado universal com suporte nativo para
 
 ## 🛠️ Como Instalar (Método Recomendado)
 
-1. Vá até a aba [Releases]([(https://github.com/Darksider96/Oddsparks-Traducao-PTBR/releases/tag/v1.0.0)]) deste repositório e baixe a versão mais recente do arquivo `Instalador_Traducao_Oddsparks_PTBR.exe`.
+1. Vá até a aba [Releases](https://github.com/Darksider96/Oddsparks-Traducao-PTBR/releases/tag/v1.0.0) deste repositório e baixe a versão mais recente do arquivo `Instalador_Traducao_Oddsparks_PTBR.exe`.
 2. Execute o instalador no seu computador.
 3. Na primeira tela, selecione a plataforma onde você possui o jogo (**Steam** ou **Epic Games**).
 4. O instalador preencherá automaticamente a pasta padrão. Se o seu jogo estiver em outro HD ou diretório customizado, clique em *Procurar* e selecione a pasta raiz do jogo.
