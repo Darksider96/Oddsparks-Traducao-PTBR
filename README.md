@@ -40,7 +40,6 @@ Caso prefira não usar o instalador:
 
 ### 📸 Galeria de Imagens
 | Menu Inicial | Configurações | Cenario | Diálogos | Invenatrio |
-| :---: | :---: | :---: |
 | ![Menu](screenshots/01.png) | ![Configurações](screenshots/02.png) | ![Cenario](screenshots/03.png) | | ![Dialogo](screenshots/04.png) | | ![Inventario](screenshots/05.png) |
 ---
 
