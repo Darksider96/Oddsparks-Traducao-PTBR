@@ -1,6 +1,8 @@
 <p align="center">
   <img src="assets/banner.png" alt="Oddsparks PT-BR Logo" width="400">
 </p>
+
+
 # 🇧🇷 Tradução PT-BR - Oddsparks: An Automation Adventure
 
 Este repositório contém a modificação de tradução para o português brasileiro (PT-BR) do jogo **Oddsparks: An Automation Adventure**. A tradução cobre todos os menus, interfaces, descrições de itens, diálogos e tutoriais, adaptando a experiência de automação e exploração para a nossa comunidade.
